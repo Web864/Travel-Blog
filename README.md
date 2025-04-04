@@ -1,0 +1,1 @@
+This project showcases a visually appealing travel destination website designed using HTML and CSS. It features a modern layout with a navigation bar, high-quality images of top travel spots, and well-structured sections for easy exploration. The design emphasizes user engagement with a clean  interface, making it an ideal platform for travelers looking for inspiration.
